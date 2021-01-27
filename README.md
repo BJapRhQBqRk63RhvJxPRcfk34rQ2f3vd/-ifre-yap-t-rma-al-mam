@@ -1,1 +1,1 @@
-# -ifre-yap-t-rma-al-mam
+# Şifre yapıştırma çalışmam
